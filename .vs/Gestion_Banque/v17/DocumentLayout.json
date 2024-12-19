@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C591B3FF-7CD2-4381-AC61-6440A93A822E}|Gestion_Banque\\Gestion_Banque.csproj|c:\\users\\toshiba\\desktop\\c#\\gestion_banque\\gestion_banque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C591B3FF-7CD2-4381-AC61-6440A93A822E}|Gestion_Banque\\Gestion_Banque.csproj|solutionrelative:gestion_banque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C591B3FF-7CD2-4381-AC61-6440A93A822E}|Gestion_Banque\\Gestion_Banque.csproj|C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\gestion_banque\\metier\\agenceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C591B3FF-7CD2-4381-AC61-6440A93A822E}|Gestion_Banque\\Gestion_Banque.csproj|solutionrelative:gestion_banque\\metier\\agenceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C591B3FF-7CD2-4381-AC61-6440A93A822E}|Gestion_Banque\\Gestion_Banque.csproj|C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\gestion_banque\\metier\\clientimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C591B3FF-7CD2-4381-AC61-6440A93A822E}|Gestion_Banque\\Gestion_Banque.csproj|solutionrelative:gestion_banque\\metier\\clientimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C591B3FF-7CD2-4381-AC61-6440A93A822E}|Gestion_Banque\\Gestion_Banque.csproj|C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\gestion_banque\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C591B3FF-7CD2-4381-AC61-6440A93A822E}|Gestion_Banque\\Gestion_Banque.csproj|solutionrelative:gestion_banque\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C591B3FF-7CD2-4381-AC61-6440A93A822E}|Gestion_Banque\\Gestion_Banque.csproj|C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\gestion_banque\\entities\\compteepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C591B3FF-7CD2-4381-AC61-6440A93A822E}|Gestion_Banque\\Gestion_Banque.csproj|solutionrelative:gestion_banque\\entities\\compteepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C591B3FF-7CD2-4381-AC61-6440A93A822E}|Gestion_Banque\\Gestion_Banque.csproj|C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\gestion_banque\\entities\\agence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C591B3FF-7CD2-4381-AC61-6440A93A822E}|Gestion_Banque\\Gestion_Banque.csproj|solutionrelative:gestion_banque\\entities\\agence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Agence.cs",
+              "DocumentMoniker": "C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\Gestion_Banque\\Entities\\Agence.cs",
+              "RelativeDocumentMoniker": "Gestion_Banque\\Entities\\Agence.cs",
+              "ToolTip": "C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\Gestion_Banque\\Entities\\Agence.cs",
+              "RelativeToolTip": "Gestion_Banque\\Entities\\Agence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:53:07.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgenceImp.cs",
+              "DocumentMoniker": "C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\Gestion_Banque\\Metier\\AgenceImp.cs",
+              "RelativeDocumentMoniker": "Gestion_Banque\\Metier\\AgenceImp.cs",
+              "ToolTip": "C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\Gestion_Banque\\Metier\\AgenceImp.cs",
+              "RelativeToolTip": "Gestion_Banque\\Metier\\AgenceImp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:46:06.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompteEpargne.cs",
+              "DocumentMoniker": "C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\Gestion_Banque\\Entities\\CompteEpargne.cs",
+              "RelativeDocumentMoniker": "Gestion_Banque\\Entities\\CompteEpargne.cs",
+              "ToolTip": "C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\Gestion_Banque\\Entities\\CompteEpargne.cs",
+              "RelativeToolTip": "Gestion_Banque\\Entities\\CompteEpargne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:45:43.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\Gestion_Banque\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Gestion_Banque\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\Gestion_Banque\\Entities\\Client.cs",
+              "RelativeToolTip": "Gestion_Banque\\Entities\\Client.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:45:25.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientImp.cs",
+              "DocumentMoniker": "C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\Gestion_Banque\\Metier\\ClientImp.cs",
+              "RelativeDocumentMoniker": "Gestion_Banque\\Metier\\ClientImp.cs",
+              "ToolTip": "C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\Gestion_Banque\\Metier\\ClientImp.cs",
+              "RelativeToolTip": "Gestion_Banque\\Metier\\ClientImp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:13:17.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\Gestion_Banque\\Program.cs",
+              "RelativeDocumentMoniker": "Gestion_Banque\\Program.cs",
+              "ToolTip": "C:\\Users\\toshiba\\Desktop\\c#\\Gestion_Banque\\Gestion_Banque\\Program.cs",
+              "RelativeToolTip": "Gestion_Banque\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:08:15.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

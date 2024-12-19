@@ -1,0 +1,7 @@
+C:\Users\toshiba\Desktop\c#\Gestion_Banque\Gestion_Banque\obj\Debug\Gestion_Banque.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\c#\Gestion_Banque\Gestion_Banque\obj\Debug\Gestion_Banque.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\c#\Gestion_Banque\Gestion_Banque\bin\Debug\Gestion_Banque.exe.config
+C:\Users\toshiba\Desktop\c#\Gestion_Banque\Gestion_Banque\bin\Debug\Gestion_Banque.exe
+C:\Users\toshiba\Desktop\c#\Gestion_Banque\Gestion_Banque\bin\Debug\Gestion_Banque.pdb
+C:\Users\toshiba\Desktop\c#\Gestion_Banque\Gestion_Banque\obj\Debug\Gestion_Banque.exe
+C:\Users\toshiba\Desktop\c#\Gestion_Banque\Gestion_Banque\obj\Debug\Gestion_Banque.pdb
